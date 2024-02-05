@@ -17,3 +17,4 @@ yarn rw prisma migrate dev
 yarn rw prisma db seed
 yarn rw dev
 ```
+<img width="920" alt="admin screenshot" src="https://github.com/jesicarana24/JesicaRana-cs490-hw3/assets/146164537/77bdf78c-b210-44f2-9bd5-42a02ff49092">
